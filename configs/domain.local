@@ -1,0 +1,27 @@
+;; Zone dump (Knot DNS 3.5.5)
+domain.local.           3600    SOA     ns1.domain.local. admin.domain.local. 2026070207 360 120 604800 300
+domain.local.           3600    A       10.10.10.10
+domain.local.           3600    NS      ns.domain.local.
+domain.local.           3600    NS      ns1.domain.local.
+domain.local.           3600    NS      ns2.domain.local.
+domain.local.           3600    NS      ns3.domain.local.
+domain.local.           3600    NS      ns4.domain.local.
+domain.local.           3600    NS      ns5.domain.local.
+domain.local.           3600    NS      ns6.domain.local.
+ch.domain.local.        3600    A       10.10.10.9
+db.domain.local.        3600    A       10.10.10.10
+ns.domain.local.        3600    A       10.10.10.11
+ns.domain.local.        3600    A       10.10.10.12
+ns.domain.local.        3600    A       10.10.10.13
+ns.domain.local.        3600    A       10.10.10.21
+ns.domain.local.        3600    A       10.10.10.22
+ns.domain.local.        3600    A       10.10.10.23
+ns1.domain.local.       3600    A       10.10.10.11
+ns2.domain.local.       3600    A       10.10.10.21
+ns3.domain.local.       3600    A       10.10.10.12
+ns4.domain.local.       3600    A       10.10.10.22
+ns5.domain.local.       3600    A       10.10.10.13
+ns6.domain.local.       3600    A       10.10.10.23
+www.domain.local.       3600    A       10.10.10.10
+;; Written 24 records
+;; Time 2026-07-01 21:02:22 UTC
